@@ -7,8 +7,7 @@ font-family:'Cairo',sans-serif;
 
 body{
 
-background:linear-gradient(180deg,#050816,#101c38,#1d2951);
-
+background: linear-gradient(180deg,#2c003e,#512b58,#6a0572);
 height:100vh;
 
 overflow:hidden;
